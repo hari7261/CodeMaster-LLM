@@ -14,11 +14,11 @@ An intelligent code helper application built with Streamlit that combines a live
 ## 🖼️ Screenshots
 
 ### Main Interface
-![CodeMaster-LLM Interface](screenshot1.png)
+![CodeMaster-LLM Interface](/Screenshot%202025-07-04%20152428.png)
 *Clean and intuitive interface with code editor, terminal, and chat*
 
 ### AI Assistant in Action
-![AI Assistant](screenshot2.png)
+![AI Assistant](/Screenshot%202025-07-04%20152453.png)
 *Structured responses with analysis, code fixes, and explanations*
 
 ## 🛠️ Installation
